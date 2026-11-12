@@ -1,0 +1,143 @@
+{
+  "status": "success",
+  "data": {
+    "personal_information": {
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "phone": "+1-555-019-2834",
+      "location": "San Francisco, CA",
+      "linkedin": "https://linkedin.com/in/janedoe",
+      "github": "https://github.com/janedoe",
+      "portfolio": "https://janedoe.dev"
+    },
+    "professional_summary": "Staff Software Engineer with 7+ years of experience leading backend distributed systems and real-time cloud architectures.",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "Go",
+        "TypeScript",
+        "SQL"
+      ],
+      "frameworks": [
+        "FastAPI",
+        "React",
+        "Node.js",
+        "Django"
+      ],
+      "libraries": [
+        "Pydantic",
+        "NumPy",
+        "Pandas",
+        "SQLAlchemy"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "SQLite"
+      ],
+      "cloud": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "GCP"
+      ],
+      "ai_ml": [
+        "spaCy",
+        "PyTorch",
+        "Ollama"
+      ],
+      "tools": [
+        "Git",
+        "Linux",
+        "Postman",
+        "GitHub Actions"
+      ],
+      "other_skills": [
+        "Microservices",
+        "REST APIs",
+        "CI/CD",
+        "System Architecture"
+      ]
+    },
+    "work_experience": [
+      {
+        "company": "Apex Cloud Systems",
+        "designation": "Senior Backend Engineer",
+        "start_date": "2021-06",
+        "end_date": "Present",
+        "is_current": true,
+        "duration_months": 36,
+        "responsibilities": "Architected event-driven microservices serving 10M daily active requests with sub-50ms latency."
+      },
+      {
+        "company": "Nexus Technologies",
+        "designation": "Software Engineer",
+        "start_date": "2019-01",
+        "end_date": "2021-05",
+        "is_current": false,
+        "duration_months": 29,
+        "responsibilities": "Engineered core RESTful API endpoints in Python/FastAPI and automated database migration pipelines."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of California, Berkeley",
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "start_year": "2014",
+        "end_year": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Distributed Job Scheduler",
+        "description": "High-throughput fault-tolerant task queue with worker pools and heartbeat monitors.",
+        "technologies": "Go, Redis, Docker",
+        "link": "https://github.com/janedoe/distributed-scheduler"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Solutions Architect - Associate",
+        "issuer": "Amazon Web Services",
+        "issue_date": "2022"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "total_experience_months": 65,
+    "total_experience_years": 5.4,
+    "confidence_and_evidence": {
+      "name": {
+        "confidence": 0.95,
+        "evidence": "Jane Doe"
+      },
+      "email": {
+        "confidence": 0.99,
+        "evidence": "jane.doe@example.com"
+      },
+      "phone": {
+        "confidence": 0.95,
+        "evidence": "+1-555-019-2834"
+      },
+      "location": {
+        "confidence": 0.92,
+        "evidence": "San Francisco, CA"
+      },
+      "total_experience": {
+        "confidence": 0.92,
+        "evidence": "Calculated 65 non-overlapping months from work history"
+      }
+    }
+  },
+  "metadata": {
+    "engine": "hybrid",
+    "duration_ms": 342.15,
+    "file_type": ".pdf",
+    "file_size_bytes": 104522
+  }
+}
+
